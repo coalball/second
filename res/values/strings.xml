@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Layout_Demo1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_1">软件技术</string>
+    <string name="btn_2">应用技术</string>
+    <string name="btn_3">软件外包</string>
+    <string name="btn_4">图形图像</string>
+    <string name="btn_5">动漫设计</string>
+    <string name="btn_6">安卓开发</string>
+
+</resources>
